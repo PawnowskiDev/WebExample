@@ -18,7 +18,7 @@
 
   <servlet>
     <servlet-name>Servlet12</servlet-name>
-    <servlet-class>pl.coderslab.MyServlet</servlet-class>
+    <servlet-class>pl.coderslab.servlets.MyServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Servlet12</servlet-name>

@@ -1,4 +1,4 @@
-package pl.coderslab;
+package pl.coderslab.servlets;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
