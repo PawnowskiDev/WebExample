@@ -10,8 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c86d7d3-5488-49d9-a2f2-4972e583849a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/get/Get2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/get/Get3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/get/Get4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/htmlget4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ServletyHomework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ServletyHomework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ServletyHomework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ServletyHomework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ServletyHomework/ServletyHomework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/get/Get2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/get/Get2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +41,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,10 +66,12 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pawnowdev/IdeaProjects/CodersLab/CodersLabJava/JavaServlet/00_project_servlet/webapp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,6 +81,15 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="pl.coderslab.form" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +108,14 @@
       <workItem from="1689283988420" duration="367000" />
       <workItem from="1689372504724" duration="2488000" />
       <workItem from="1689622787628" duration="7177000" />
-      <workItem from="1689716218128" duration="2713000" />
+      <workItem from="1689716218128" duration="2858000" />
+      <workItem from="1689799815762" duration="1001000" />
+      <workItem from="1689800826546" duration="4429000" />
+      <workItem from="1689807096334" duration="962000" />
+      <workItem from="1689886399235" duration="38000" />
+      <workItem from="1690013895588" duration="5350000" />
+      <workItem from="1690233764363" duration="228000" />
+      <workItem from="1690234007877" duration="2793000" />
     </task>
     <servers />
   </component>
