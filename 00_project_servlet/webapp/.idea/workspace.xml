@@ -10,27 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c86d7d3-5488-49d9-a2f2-4972e583849a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/get/Get3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/get/Get4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/form1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/form2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/form3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/form4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/form5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/htmlget4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ServletyHomework/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ServletyHomework/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ServletyHomework/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ServletyHomework/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ServletyHomework/ServletyHomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/cookie/Cookie1Del.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/cookie/Cookie1Get.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/cookie/Cookie1Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/cookie/Cookie2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/cookie/Cookie3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/cookie/Cookie4Del.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/cookie/Cookie4Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/cookie2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/cookie3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/get/Get2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/get/Get2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/form/Form5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -116,6 +106,7 @@
       <workItem from="1690013895588" duration="5350000" />
       <workItem from="1690233764363" duration="228000" />
       <workItem from="1690234007877" duration="2793000" />
+      <workItem from="1690317693375" duration="2683000" />
     </task>
     <servers />
   </component>

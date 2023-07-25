@@ -20,7 +20,7 @@ public class Form5 extends HttpServlet {
 
         if ("celcToFahr".equals(conversionType)) {
             converted = 32 + 9.0 / 5 * parsed;
-        } else if ("FahrToCelc".equals(conversionType)) {
+        } else if ("fahrToCelc".equals(conversionType)) {
             converted = 5.0 / 9 * (parsed - 32);
         }
         response.getWriter().println("Stopnie po konwersji: %.2f\", converted");
